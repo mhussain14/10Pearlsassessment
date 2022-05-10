@@ -1,5 +1,5 @@
 
-import AddCartpage from  '../2-advanced-examples/PageFactory/AddCartpage'
+import AddCartpage from  '../PageFactory/AddCartpage'
 
 describe ('Add product into cart', function()
 {

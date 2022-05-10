@@ -1,5 +1,5 @@
 
-import Loginwithgooglepage from '../2-advanced-examples/PageFactory/Loginwithgooglepage'
+import Loginwithgooglepage from '../PageFactory/Loginwithgooglepage'
 
 describe ('Sign In with gmail', function()
 {

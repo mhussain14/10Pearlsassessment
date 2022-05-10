@@ -18,7 +18,6 @@ class loginPg
         emails.clear()
         emails.type(email)
         return this
-
     }
     fillpassword(password)
     {
@@ -26,14 +25,11 @@ class loginPg
         pass.clear()
         pass.type(password)
         return this
-
     }
     submit()
     {
         const submit = cy.get('button[id = SubmitLogin]')
         submit.click()
-
-    }
-    
+    }   
 }
 export default loginPg

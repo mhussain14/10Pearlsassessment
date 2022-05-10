@@ -1,6 +1,6 @@
 /// <reference types = "cypress" />
 
-import SignUpPage from '../2-advanced-examples/PageFactory/SignUpPage'
+import SignUpPage from '../PageFactory/SignUpPage'
 
 describe('Sig up', function()
 {
