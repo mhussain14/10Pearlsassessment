@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules\\.bin\\cypress run",
+    "DeatTawk": "npm run test --1-getting-started/todo.spec.js, 2-advanced-examples\\DeatTawkAdmin\\DTTestCase.js"
   },
   "author": "Mehdi",
   "license": "ISC",
