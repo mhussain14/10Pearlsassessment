@@ -15,7 +15,7 @@ describe('DeatTawk Login', function()
         dtlogs.LoginPassword('zaveen123')
         dtlogs.LoginButton()
     })
-    /* it('Subscriber List', function()
+    it('Subscriber List', function()
     { 
         const sub = new SubscriberList()
         sub.Openslist()
@@ -44,7 +44,7 @@ describe('DeatTawk Login', function()
         inters.UpdatetheRecord()
         
 
-    })*/
+    })
     it('List of Web users', function(){
 
         const WU = new WebUserList()
