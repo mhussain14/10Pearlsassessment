@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules\\.bin\\cypress",
-    "DeatTawk": "npm run test -- --DTTestCase.js \\integration\\2-advanced-examples\\DeatTawkAdmin"
+    "test": "node_modules\\.bin\\cypress run",
+    "DeatTawk": "npm run test -- -- \\integration\\2-advanced-examples\\DeatTawkAdmin\\DTTestCase.js"
   },
   "author": "Mehdi",
   "license": "ISC",
