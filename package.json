@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules\\.bin\\cypress run",
-    "DeatTawk": "npm run test -- -- \\integration\\2-advanced-examples\\DeatTawkAdmin\\DTTestCase.js"
+    "DeatTawk": "npm run test -- \\integration\\2-advanced-examples\\DeatTawkAdmin\\DTTestCase.js"
   },
   "author": "Mehdi",
   "license": "ISC",
